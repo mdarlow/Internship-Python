@@ -6,10 +6,10 @@ During my time at Prosper IT Consulting, I started an worked on a web applicatio
 
 ## Tasks
 
-* Build the Basic App
-* Create the Model
-* Index Page
-* Details Page
+* [Build the Basic App](#build-the-basic-app)
+* [Create the Model](#create-the-model)
+* [Index Page](#index-page)
+* [Details Page](#details-page)
 
 ### Build the Basic App
 
